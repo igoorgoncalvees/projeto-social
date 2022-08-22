@@ -43,9 +43,11 @@ iframe#tela {
     width: 270px;
     height: 475px;
 }
+
 section#redes-sociais {
     text-align: right;
 }
+
 section#redes-sociais img {
     width: 60px;
     margin: 20px;
